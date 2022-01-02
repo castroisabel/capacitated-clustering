@@ -1,0 +1,11 @@
+Size reduction: 20 x 100
+1   Optimal solution: 50.0   Computational time (s): 0.06465291976928711
+2   Optimal solution: 49.0   Computational time (s): 0.08069682121276855
+3   Optimal solution: 45.0   Computational time (s): 0.04091215133666992
+4   Optimal solution: 60.0   Computational time (s): 0.05798912048339844
+5   Optimal solution: 47.0   Computational time (s): 0.025166988372802734
+6   Optimal solution: 48.0   Computational time (s): 0.08373689651489258
+7   Optimal solution: 38.0   Computational time (s): 0.03443789482116699
+8   Optimal solution: 49.0   Computational time (s): 0.03136491775512695
+9   Optimal solution: 46.0   Computational time (s): 0.028921842575073242
+10   Optimal solution: 42.0   Computational time (s): 0.03012704849243164
