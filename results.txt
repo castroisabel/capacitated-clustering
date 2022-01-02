@@ -1,0 +1,11 @@
+Solver: 20 x 100
+1   Optimal solution: 50.0   Computational time (s): 0.15509295463562012
+2   Optimal solution: 49.0   Computational time (s): 0.11576485633850098
+3   Optimal solution: 45.0   Computational time (s): 0.10144782066345215
+4   Optimal solution: 60.0   Computational time (s): 0.13005399703979492
+5   Optimal solution: 47.0   Computational time (s): 0.0396420955657959
+6   Optimal solution: 48.0   Computational time (s): 0.16550397872924805
+7   Optimal solution: 38.0   Computational time (s): 0.040242910385131836
+8   Optimal solution: 49.0   Computational time (s): 0.05688905715942383
+9   Optimal solution: 46.0   Computational time (s): 0.047351837158203125
+10   Optimal solution: 42.0   Computational time (s): 0.05230093002319336
