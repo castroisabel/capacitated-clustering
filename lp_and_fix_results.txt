@@ -1,0 +1,11 @@
+LP-and-fix: 20 x 100
+1   Optimal solution: 50.0   Computational time (s): 0.05721592903137207
+2   Optimal solution: 49.0   Computational time (s): 0.13726115226745605
+3   Optimal solution: 45.0   Computational time (s): 0.05848097801208496
+4   Optimal solution: 60.0   Computational time (s): 0.08791399002075195
+5   Optimal solution: 47.0   Computational time (s): 0.004065036773681641
+6   Optimal solution: 48.0   Computational time (s): 0.1595449447631836
+7   Optimal solution: 38.0   Computational time (s): 0.003139019012451172
+8   Optimal solution: 49.0   Computational time (s): 0.0044209957122802734
+9   Optimal solution: 46.0   Computational time (s): 0.016281843185424805
+10   Optimal solution: 42.0   Computational time (s): 0.03123307228088379
